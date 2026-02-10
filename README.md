@@ -1,18 +1,18 @@
 Gnanaparvathan Sabapathy — Full-Stack Developer
 
-📍 London / Remote  
+📍 Chelmsford, England  
 💻 Building Web Apps with React, Spring Boot & MySQL/AWS
 
 ---
 
 ### 🛠️ Tech Stack + Skills
 
-* **Frontend:** React, Bootstrap, Tailwind CSS 
-* **Backend:** Spring Boot, Java  
+* **Frontend:** React, Bootstrap, Tailwind CSS, Axios 
+* **Backend:** Spring Boot, Java, Spring Security + JWT   
 * **Database:** MySQL, PostgreSQL  
 * **Cloud:** AWS (EC2, RDS, S3)  
 * **Tools:** Docker, GitHub Actions
-* **Infrastructure:** GitHub, Mongo DB
+* **Infrastructure:** GitHub, Mongo DB, Docker
 * **Soft Skills:** Team Work, Communication, Networking, Personal Development, Data Analysing
 
 ---
