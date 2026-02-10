@@ -1,4 +1,4 @@
-## Gnanaparvathan Sabapathy — Full-Stack Developer
+### Gnanaparvathan Sabapathy — Full-Stack Developer
 
 💻 Building Web Apps with React, Spring Boot & MySQL/AWS
 
@@ -15,14 +15,14 @@
 
 ---
 
-## 🚀 Pinned Projects
+### 🚀 Pinned Projects
 
 ✨ Project Name — employment-task-management  
 💡 Employment and Task Management System with React frontend, Spring Boot backend, JWT authentication, role-based access, PostgreSQL, and AWS deployment
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 ![yipfram's GitHub stats](https://own-github-readme-stats-six.vercel.app/api?username=github-saba)
 ![Top Langs](https://own-github-readme-stats-six.vercel.app/api/top-langs/?username=github-saba&layout=compact)
 
