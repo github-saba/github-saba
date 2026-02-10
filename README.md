@@ -1,6 +1,5 @@
-Gnanaparvathan Sabapathy — Full-Stack Developer
+## Gnanaparvathan Sabapathy — Full-Stack Developer
 
-📍 Chelmsford, England  
 💻 Building Web Apps with React, Spring Boot & MySQL/AWS
 
 ---
