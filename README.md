@@ -9,10 +9,9 @@ Gnanaparvathan Sabapathy — Full-Stack Developer
 
 * **Frontend:** React, Bootstrap, Tailwind CSS, Axios 
 * **Backend:** Spring Boot, Java, Spring Security + JWT   
-* **Database:** MySQL, PostgreSQL  
+* **Database:** MySQL, PostgreSQL, Mongo DB  
 * **Cloud:** AWS (EC2, RDS, S3)  
-* **Tools:** Docker, GitHub Actions
-* **Infrastructure:** GitHub, Mongo DB, Docker
+* **Tools:** GitHub, Docker, GitHub Actions
 * **Soft Skills:** Team Work, Communication, Networking, Personal Development, Data Analysing
 
 ---
