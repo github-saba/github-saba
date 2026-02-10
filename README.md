@@ -1,16 +1,31 @@
-## Hi there 👋
+# Gnanaparvathan Sabapathy — Full-Stack Developer
 
-<!--
-**github-saba/github-saba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 London / Remote  
+💻 Building Web Apps with React, Spring Boot & MySQL/AWS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack + Skills
+
+**Frontend:** React, Bootstrap  
+**Backend:** Spring Boot, Java  
+**Database:** MySQL, PostgreSQL  
+**Cloud:** AWS (EC2, RDS, S3)  
+**Tools:** Docker, GitHub Actions
+**Infrastructure:** GitHub, Mongo DB
+**Soft Skills:** Team Work, Communication, Networking, Personal Development, Data Analysing
+
+---
+
+## 🚀 Pinned Projects
+
+✨ Project Name — employment-task-management  
+💡 Employment and Task Management System with React frontend, Spring Boot backend, JWT authentication, role-based access, PostgreSQL, and AWS deployment
+
+---
+
+## GitHub Stats
+![yipfram's GitHub stats](https://own-github-readme-stats-six.vercel.app/api?username=github-saba)
+![Top Langs](https://own-github-readme-stats-six.vercel.app/api/top-langs/?username=github-saba&layout=compact)
+
+---
