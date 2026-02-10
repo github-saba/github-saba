@@ -7,7 +7,7 @@ Gnanaparvathan Sabapathy — Full-Stack Developer
 
 ### 🛠️ Tech Stack + Skills
 
-* **Frontend:** React, Bootstrap  
+* **Frontend:** React, Bootstrap, Tailwind CSS 
 * **Backend:** Spring Boot, Java  
 * **Database:** MySQL, PostgreSQL  
 * **Cloud:** AWS (EC2, RDS, S3)  
