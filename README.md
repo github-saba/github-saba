@@ -10,7 +10,7 @@
 * **Backend:** Spring Boot, Java, Spring Security + JWT   
 * **Database:** MySQL, PostgreSQL, Mongo DB  
 * **Cloud:** AWS (EC2, RDS, S3)  
-* **Tools:** GitHub, Docker, GitHub Actions
+* **Tools:** Git, GitHub, Docker, Kubernetes, Jenkins, GitHub Actions
 * **Soft Skills:** Team Work, Communication, Networking, Personal Development, Data Analysing
 
 ---
