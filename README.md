@@ -18,7 +18,7 @@
 ### 🚀 Pinned Projects
 
 ✨ **Employee-Management-System**  
-💡 Full-stack Employee Management application with React (JavaScript) frontend using Bootstrap and Spring Boot backend. Implements Spring Security with JWT authentication and role-based authorization (RBAC), integrated with PostgreSQL database and deployed on AWS.
+💡 Full-stack Employee Management application with React (JavaScript) frontend using Bootstrap and Spring Boot backend. Implements Spring Security with JWT authentication and role-based authorization (RBAC), integrated with MySQL database and deployed on AWS.
 
 ---
 
