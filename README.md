@@ -17,12 +17,11 @@
 
 ### 🚀 Pinned Projects
 
-✨ Project Name 1: — Employee-Management-System  
-💡 Employee Management System with React frontend, Spring Boot & Spring Security backend, JWT authentication,
-    role-based access authorisation & PostgreSQL DB, and AWS deployment.
+✨ Project Name 1: — ** Employee-Management-System **  
+💡 Employee Management System with React & JavaScript frontend, Spring Boot & Spring Security backend, JWT authentication, role-based access authorisation & PostgreSQL DB, and AWS deployment.
 
 ✨ Project Name 2: — Quiz-Application  
-💡 Quiz-Application with React frontend, Bootstarp, In-memory authentication, Spring Boot backend & Mongo DB, and AWS deployment.
+💡 Quiz-Application with React & JavaScript frontend, Bootstarp, In-memory authentication, Spring Boot backend & Mongo DB, and AWS deployment.
 
 ✨ Project Name 3: — TypeScript-Task-Manager  
 💡 Quiz-Application with React & TypeScript frontend, Tailwind-CSS & No backend & Netlify deployment.
