@@ -23,7 +23,7 @@
 ---
 
 ✨ **Quiz-Application**  
-💡 Full-stack Quiz application with React (JavaScript) frontend using Bootstrap and Spring Boot backend with MongoDB. Supports dynamic question handling and lightweight authentication, deployed on AWS.
+💡 Full-stack Quiz application with React (JavaScript) frontend using Bootstrap and Spring Boot backend with MongoDB. Supports dynamic question handling and lightweight authentication, backend part deployed on AWS and frontend part deployed on Netlify.
 
 ---
 
