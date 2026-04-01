@@ -6,7 +6,7 @@
 
 ### 🛠️ Tech Stack + Skills
 
-* **Frontend:** React, Bootstrap, Tailwind CSS, Axios 
+* **Frontend:** React, JavaScript, Bootstrap, Tailwind CSS, Axios 
 * **Backend:** Spring Boot, Java, Spring Security + JWT   
 * **Database:** MySQL, PostgreSQL, Mongo DB  
 * **Cloud:** AWS (EC2, RDS, S3)  
